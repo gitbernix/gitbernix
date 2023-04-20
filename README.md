@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning at CodeCool :)
-- - ⚡ Check out my website at www.meghivodiszkont.hu
+- ⚡ Check out my website at www.meghivodiszkont.hu
 <!--
 **gitbernix/gitbernix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
